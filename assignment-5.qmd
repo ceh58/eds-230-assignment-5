@@ -5,6 +5,7 @@ format: html
 editor: visual
 editor_options: 
   chunk_output_type: console
+embed-resources: true
 ---
 
 ```{r setup, include=FALSE}
